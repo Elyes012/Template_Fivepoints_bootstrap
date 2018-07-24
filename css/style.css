@@ -21,6 +21,9 @@
     padding-right: 50px;
     margin-top: 50px;
     margin-bottom: 50px;
+    text-align: center;
+    border : solid;
+  
 }
 
  .cont1
@@ -60,7 +63,8 @@ padding: 50px
 .cont4
 {
     background-image: url("../img/045.jpg");
-    color: aliceblue;
+    background-position: center;
+    color: white;
    
 }
 
@@ -80,12 +84,14 @@ padding: 50px
 .rowv1{
     margin-top: 50px;
     margin-bottom: 50px;
+    text-align: center;
     
   }
 
   .cont5
   {
       background-image: url("../img/DSCN19052.jpg");
+    
       color: white;
   }
 
@@ -94,3 +100,5 @@ padding: 50px
       background-color: #3D3D3D;
       color: white;
   }
+
+  
